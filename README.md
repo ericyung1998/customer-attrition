@@ -1,5 +1,4 @@
-# customer-attrition-classification
-
+# customer-attrition
 ISOM3360 - Data Mining for Business Analytics: Project
 - Report that details the strategies to reduce customer attrition based on the machine learning models
 
